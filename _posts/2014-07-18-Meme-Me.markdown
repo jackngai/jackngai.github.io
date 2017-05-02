@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017-05-02
 img: Meme-Me.png
 alt: image-alt
-project-date: July 2016
+project-date: August 2016
 client: Swift
-category: Web Development
-description: Test
+category: Meme Me
+description: This app let users select photos from their photo library or take photos with the camera on their iOS device and create memes with them by allowing placing text at the top and the bottom of each photo. The memed photos are saved and can be viewed in a collection view or a table view.
 
 ---

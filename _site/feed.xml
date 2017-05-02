@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-05-02T16:13:25-04:00</updated>
+  <updated>2017-05-02T16:29:36-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,70 @@
   
 
   
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/2017/05/02/2014-07-15-For-New-Yorkers/" rel="alternate" type="text/html" title="" />
+      <published>2017-05-02T16:29:36-04:00</published>
+      <updated>2017-05-02T16:29:36-04:00</updated>
+      <id>http://localhost:4000/2017/05/02/2014-07-15-For-New-Yorkers</id>
+      <content type="html" xml:base="http://localhost:4000/2017/05/02/2014-07-15-For-New-Yorkers/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Meme Me</title>
+      <link href="http://localhost:4000/meme%20me/2017/05/02/Meme-Me/" rel="alternate" type="text/html" title="Meme Me" />
+      <published>2017-05-02T00:00:00-04:00</published>
+      <updated>2017-05-02T00:00:00-04:00</updated>
+      <id>http://localhost:4000/meme%20me/2017/05/02/Meme-Me</id>
+      <content type="html" xml:base="http://localhost:4000/meme%20me/2017/05/02/Meme-Me/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Meme Me" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">On The Map</title>
@@ -54,46 +118,12 @@
     </entry>
   
     <entry>
-      <title type="html">Meme Me</title>
-      <link href="http://localhost:4000/web%20development/2014/07/18/Meme-Me/" rel="alternate" type="text/html" title="Meme Me" />
-      <published>2014-07-18T00:00:00-04:00</published>
-      <updated>2014-07-18T00:00:00-04:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/18/Meme-Me</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/18/Meme-Me/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">Virtual Tourist</title>
-      <link href="http://localhost:4000/web%20development/2014/07/16/Virtual-Tourist/" rel="alternate" type="text/html" title="Virtual Tourist" />
-      <published>2014-07-16T00:00:00-04:00</published>
-      <updated>2014-07-16T00:00:00-04:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/16/Virtual-Tourist</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/16/Virtual-Tourist/"></content>
+      <link href="http://localhost:4000/virtual%20tourist/2017/05/02/Virtual-Tourist/" rel="alternate" type="text/html" title="Virtual Tourist" />
+      <published>2017-05-02T00:00:00-04:00</published>
+      <updated>2017-05-02T00:00:00-04:00</updated>
+      <id>http://localhost:4000/virtual%20tourist/2017/05/02/Virtual-Tourist</id>
+      <content type="html" xml:base="http://localhost:4000/virtual%20tourist/2017/05/02/Virtual-Tourist/"></content>
 
       
       
@@ -108,41 +138,7 @@
       </author>
 
       
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">For New Yorkers</title>
-      <link href="http://localhost:4000/web%20development/2014/07/15/For-New-Yorkers/" rel="alternate" type="text/html" title="For New Yorkers" />
-      <published>2014-07-15T00:00:00-04:00</published>
-      <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/web%20development/2014/07/15/For-New-Yorkers</id>
-      <content type="html" xml:base="http://localhost:4000/web%20development/2014/07/15/For-New-Yorkers/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
+        <category term="Virtual Tourist" />
       
 
       
