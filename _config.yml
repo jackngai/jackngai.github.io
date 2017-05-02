@@ -44,15 +44,12 @@ social:
   - title: github
     url: http://github.com/jackngai
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jackngai
+    url: http://stackoverflow.com/users/5865272/jackngai
 
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Brooklyn, NY, USA
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
