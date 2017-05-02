@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: Meme-Me.png
 alt: image-alt
 project-date: July 2016
 client: Swift
