@@ -6,7 +6,7 @@ img: On-The-Map.png
 alt: image-alt
 project-date: August 2016
 client: Swift
-category: <a href="https://github.com/jackngai/On-The-Map">On The Map</a>
+category: On The Map
 description: An app that posts user-generated location information to a shared map, pulling the locations of fellow Nanodegree students, with custom messages about themselves or their learning experience.
 
 ---
