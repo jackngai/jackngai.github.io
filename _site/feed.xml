@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-05-02T16:29:36-04:00</updated>
+  <updated>2017-05-02T16:31:25-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,36 +18,6 @@
   
 
   
-  
-    <entry>
-      <title type="html"></title>
-      <link href="http://localhost:4000/2017/05/02/2014-07-15-For-New-Yorkers/" rel="alternate" type="text/html" title="" />
-      <published>2017-05-02T16:29:36-04:00</published>
-      <updated>2017-05-02T16:29:36-04:00</updated>
-      <id>http://localhost:4000/2017/05/02/2014-07-15-For-New-Yorkers</id>
-      <content type="html" xml:base="http://localhost:4000/2017/05/02/2014-07-15-For-New-Yorkers/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Meme Me</title>
@@ -139,6 +109,40 @@
 
       
         <category term="Virtual Tourist" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">For New Yorkers</title>
+      <link href="http://localhost:4000/fornyers/2014/07/15/For-New-Yorkers/" rel="alternate" type="text/html" title="For New Yorkers" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/fornyers/2014/07/15/For-New-Yorkers</id>
+      <content type="html" xml:base="http://localhost:4000/fornyers/2014/07/15/For-New-Yorkers/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="ForNYers" />
       
 
       
