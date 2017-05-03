@@ -3,6 +3,7 @@ layout: default
 modal-id: 1
 date: 2017-05-02
 img: Meme-Me.png
+animated: Meme-Me1.gif
 alt: Meme Me
 project-date: September 2016
 features: UICollectionView, UITableView, Delegate Pattern
