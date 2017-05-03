@@ -3,6 +3,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: ForNYers.png
+animated: ForNYers.png
 alt: For New Yorkers
 project-date: January 2016
 features: Core Data, UIFetchedResultsController, UserDefaults

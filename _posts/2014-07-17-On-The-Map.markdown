@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 date: 2017-05-02
 img: On-The-Map.png
+animated: On-The-Map.png
 alt: On The Map
 project-date: October 2016
 features: REST API, Map Kit, Facebook SDK

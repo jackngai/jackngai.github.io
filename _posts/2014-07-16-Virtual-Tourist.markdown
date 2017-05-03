@@ -3,6 +3,7 @@ layout: default
 modal-id: 3
 date: 2017-05-02
 img: Virtual-Tourist.png
+animated: Virtual-Tourist.png
 alt: Virtual Tourist
 project-date: November 2016
 features: Core Data, REST API, Map Kit, UICollectionView
