@@ -7,9 +7,13 @@
                         <h3>{{ site.footer.location }}</h3>
                         <p>
                             {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                              {{ adress.line }} <br>
 		                    {% endfor %}
                         </p>
+                    </div>
+                     <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.credits }}</h3>
+                        <br>{{ site.credits }}
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
@@ -20,10 +24,6 @@
                             </li>
 		                    {% endfor %}
                         </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
                     </div>
                 </div>
             </div>

@@ -32,8 +32,9 @@ color:
 # Footer settings
 footer:
   copyright: Jack Ngai
-  location: Location
   social: Social
+  location: Location
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,6 +51,9 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Brooklyn, NY, USA
+
+# Credits content
+credits: ''
 
 # Build settings
 markdown: kramdown
