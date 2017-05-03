@@ -3,8 +3,8 @@ layout: default
 modal-id: 1
 date: 2017-05-02
 img: Meme-Me.png
-alt: image-alt
-project-date: August 2016
+alt: Meme Me
+project-date: September 2016
 features: UICollectionView, UITableView, Delegate Pattern
 category: Meme Me
 link: https://github.com/jackngai/MemeMe-2.0

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-05-02T23:10:37-04:00</updated>
+  <updated>2017-05-02T23:18:07-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -123,11 +123,11 @@
   
     <entry>
       <title type="html">For New Yorkers</title>
-      <link href="http://localhost:4000/fornyers/2014/07/15/For-New-Yorkers/" rel="alternate" type="text/html" title="For New Yorkers" />
+      <link href="http://localhost:4000/for%20new%20yorkers/2014/07/15/For-New-Yorkers/" rel="alternate" type="text/html" title="For New Yorkers" />
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/fornyers/2014/07/15/For-New-Yorkers</id>
-      <content type="html" xml:base="http://localhost:4000/fornyers/2014/07/15/For-New-Yorkers/"></content>
+      <id>http://localhost:4000/for%20new%20yorkers/2014/07/15/For-New-Yorkers</id>
+      <content type="html" xml:base="http://localhost:4000/for%20new%20yorkers/2014/07/15/For-New-Yorkers/"></content>
 
       
       
@@ -142,7 +142,7 @@
       </author>
 
       
-        <category term="ForNYers" />
+        <category term="For New Yorkers" />
       
 
       
